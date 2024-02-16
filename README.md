@@ -20,7 +20,7 @@ Add another lookup value and drag the function cell down to easily fill in the n
 
 ![image](https://github.com/javamesql/Excel-Function-Guide/assets/141413672/afad2131-65c4-4af3-89f6-1e4d5f1eb8bf)
 
-VLOOKUP consists of a starting value to look up, which is Monty and Loop Media. We will be looking for revenue. We will be selecting the lookup value (Monty or Loop Media), the table we will be drawing our answer from, and the vertial column our answer is in (column 4). The V in VLOOKUP comes from the significance of vertical columns when using the function. 
+VLOOKUP consists of a starting value to look up, which is Monty and Loop Media. We will be looking for revenue. We will be selecting the lookup value (Monty or Loop Media), the table we will be drawing our answer from, and the vertical column our answer is in (column 4). The V in VLOOKUP comes from the significance of vertical columns when using the function. 
 
 <h2>SUMIF</h2>
 
