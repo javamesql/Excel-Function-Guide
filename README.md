@@ -1,6 +1,6 @@
 <h1>Excel Function Guide</h1> 
 
-<h2>To demonstrate my proficiency in Excel functions, I will be going through the process of using the functions.</h2>
+<h2>To demonstrate my proficiency in Excel functions, I will be explaining and teaching the process of using the functions.</h2>
 
 <h2>XLOOKUP</h2>
 
